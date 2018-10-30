@@ -1,3 +1,5 @@
+![Facebook Customer Chat Plugin Preview Image](http://designly.link/2OXRfsx)
+
 # Facebook Customer Chat Plugin
 ![Sketch Version 52.2](http://designly.link/2JuFp3q)
 
